@@ -8,7 +8,7 @@ function Navbar() {
     <div className=" bg-green-500 p-10">
     <div className=" flex justify-between items-baseline">
     <div className='text-4xl font-semibold'>
-        <h1>Supabase </h1>
+        <h1>Supabase_2022</h1>
         </div>
 
 <div className="flex justify-start gap-10 font-sans text-xl">
