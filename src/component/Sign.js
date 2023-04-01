@@ -62,6 +62,7 @@ const signinwith=async()=>{
     alert(error.message)
   }
   console.log(session.user)
+  console.log(session.user.currentUser)
   setuser(session.user)
 
 
